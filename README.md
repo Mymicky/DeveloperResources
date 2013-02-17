@@ -12,6 +12,5 @@ In this repo you will find documents explaining the different Sphero API's and a
 
 ##Art
 - Sphero logo and mark
-- Transparent ball
 - Sphero as a controller assets
 - Icon
