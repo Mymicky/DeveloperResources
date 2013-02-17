@@ -9,6 +9,7 @@ In this repo you will find documents explaining the different Sphero API's and a
 - Shell Commands
 - Collision Detection
 - Macros
+- Sphero Whitelist Process
 
 ##Art
 - Sphero logo and mark
