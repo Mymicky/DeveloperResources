@@ -15,3 +15,4 @@ In this repo you will find documents explaining the different Sphero API's and a
 - Sphero logo and mark
 - Sphero as a controller assets
 - Icon
+- Vector logo and mark (.ai)
