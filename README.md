@@ -6,7 +6,6 @@ In this repo you will find documents explaining the different Sphero API's and a
 - Low Level API
 - Orb Basic
 - Locator
-- Shell Commands
 - Collision Detection
 - Macros
 - Sphero Whitelist Process
